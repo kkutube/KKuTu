@@ -1,7 +1,7 @@
 # KKuTu.BE
 
 - Made by [JJoriping]
-- 
+- Update by [COOKIEDEVIL]
 - Languages
 - 	* [English](#english)
 	* [한국어](#한국어)
