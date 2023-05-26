@@ -1,6 +1,7 @@
 # KKuTu.BE
 
 - Made by [JJoriping]
+- CODE OFFER https://github.com/G-remi/KKuTu
 - Update by [COOKIEDEVIL]
 - Languages
 - 	* [English](#english)
